@@ -6,6 +6,12 @@
     background-color: grey;
     color: whitesmoke;
     height: 700px;
+    border: maroon 2px solid;
+    padding: 6px;
+    margin: auto;
+    
+
+
 
 
 }
@@ -34,19 +40,20 @@
 .photos {
     background-color: cadetblue;
     border-color: brown;
-    width: 79.5%;
+    width: 75%;
     float: right;
     height: 400px;
     display: grid;
     border-style: solid;
     border-width: 3px;
+    padding: 20px;
 }
 .about {
     color: crimson;
     background-color: cadetblue;
     border-color: black;
     float: right;
-    width: 79.5%;
+    width: 77.5%;
     height: 300px;
     border-style: solid;
     border-width: 3px;
