@@ -1,0 +1,68 @@
+.upcoming {
+
+    float: left;
+    width: 20%;
+    font-family: fantasy;
+    background-color: grey;
+    color: whitesmoke;
+    height: 700px;
+
+
+}
+.red {
+    color: maroon;
+    font-weight: 100;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.hot {
+    color:black;
+    font-weight: 100;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.chilli {
+    color: maroon;
+    font-weight: 100;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.peppers {
+    color: black;
+    font-weight: 100;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.photos {
+    background-color: cadetblue;
+    border-color: brown;
+    width: 79.5%;
+    float: right;
+    height: 400px;
+    display: grid;
+    border-style: solid;
+    border-width: 3px;
+}
+.about {
+    color: crimson;
+    background-color: cadetblue;
+    border-color: black;
+    float: right;
+    width: 79.5%;
+    height: 300px;
+    border-style: solid;
+    border-width: 3px;
+}
+body {
+    background-color: coral;
+}
+.title {
+    text-align: center;
+    text-decoration: wavy;
+    text-decoration-color: darkblue;
+}
+
+h3 {
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: darkred;
+    
+}
