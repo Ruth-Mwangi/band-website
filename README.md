@@ -9,7 +9,7 @@ The purpose of this project is to create a website that describes a band, in the
 * Navigate to appropriate directory usind the cd command
 * type in the command git clone and paste the url of clone and then press enter 
 * run the index file in the folder downloaded
-You can use th live link 
+You can use th live link https://ruth-mwangi.github.io/band-website/
 
 ## Technologies Used
 HTML
