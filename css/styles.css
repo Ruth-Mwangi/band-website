@@ -5,14 +5,11 @@
     font-family: fantasy;
     background-color: grey;
     color: whitesmoke;
-    height: 700px;
+    height: auto;
     border: maroon 2px solid;
     padding: 6px;
     margin: auto;
-    
-
-
-
+    position: fixed;
 
 }
 .red {
@@ -42,19 +39,19 @@
     border-color: brown;
     width: 75%;
     float: right;
-    height: 400px;
+    height: auto;
     display: grid;
     border-style: solid;
     border-width: 3px;
     padding: 20px;
 }
 .about {
-    color: crimson;
+    color: black;
     background-color: cadetblue;
     border-color: black;
     float: right;
     width: 77.5%;
-    height: 300px;
+    height: 400px;
     border-style: solid;
     border-width: 3px;
 }
@@ -65,11 +62,25 @@ body {
     text-align: center;
     text-decoration: wavy;
     text-decoration-color: darkblue;
+    font-weight: bolder;
 }
 
 h3 {
-    text-align: center;
-    text-decoration: underline;
-    text-decoration-color: darkred;
     
+    
+    
+    color: black;
+    
+}
+h1 {
+    text-decoration: underline  #F7B733;
+    
+    color: black;
+
+}
+a:hover {
+    background-color: gray;
+}
+body{
+    font-family: fantasy;
 }
